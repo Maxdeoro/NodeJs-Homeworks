@@ -1,0 +1,30 @@
+{
+  "name": "weather-forecast-nodejs-console-app",
+  "version": "1.0.0",
+  "description": "Weater forecast application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maxdeoro/Weather-Forecast-Nodejs-console-app.git"
+  },
+  "keywords": [
+    "nodejs",
+    "console",
+    "app",
+    "weather",
+    "forecast"
+  ],
+  "author": "Maxdeoro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maxdeoro/Weather-Forecast-Nodejs-console-app/issues"
+  },
+  "homepage": "https://github.com/Maxdeoro/Weather-Forecast-Nodejs-console-app#readme",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2",
+    "weather-js": "^2.0.0"
+  }
+}
