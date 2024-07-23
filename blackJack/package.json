@@ -1,0 +1,31 @@
+{
+  "name": "blackjack",
+  "version": "1.0.0",
+  "description": "card game Black Jack",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maxdeoro/NodeJs-Homeworks.git"
+  },
+  "type":"module",
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "npm"
+  ],
+  "author": "Maxdeoro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Maxdeoro/NodeJs-Homeworks/issues"
+  },
+  "homepage": "https://github.com/Maxdeoro/NodeJs-Homeworks#readme",
+  "dependencies": {
+    "cards": "^2.0.3",
+    "readline-sync": "^1.4.10",
+    "terminal-kit": "^3.1.1"
+  }
+}
