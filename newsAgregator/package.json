@@ -1,0 +1,37 @@
+{
+  "name": "newsagregator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maxdeoro/NodeJs-Homeworks.git"
+  },
+  "keywords": [
+    "node.js",
+    "express.js",
+    "body-parser",
+    "javascript"
+  ],
+  "author": "Maxdeoro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Maxdeoro/NodeJs-Homeworks/issues"
+  },
+  "homepage": "https://github.com/Maxdeoro/NodeJs-Homeworks#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cheerio": "^1.0.0",
+    "express": "^4.19.2",
+    "express-handlebars": "^8.0.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
